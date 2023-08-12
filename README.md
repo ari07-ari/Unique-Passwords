@@ -5,7 +5,7 @@ I have created a password randomizer. It creates a new unique password when a us
 
 ![Webpage](./images/password.png)
 
-[Go to Website here]()
+[Go to Website here](https://ari07-ari.github.io/Unique-Passwords/)
 
 ## Installation
 I created a new repository in GitHub and then cloned it to my computer. Then I was able to copy the file "Develop" to my repo and then edit and fill in the Java file. 
