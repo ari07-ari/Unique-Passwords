@@ -146,16 +146,17 @@ function generatePassword(){
   //the variable password has an empty string
     var password = "";
 
-  //
+  //creates a random index, and adds the corresponding character to our password. 
+  //process repeats until the wanted length is reached
     for (var i = 0; i < userChoiceLength; i++) {
       var pos = Math.floor(Math.random() * character.length);
       password = password + character.charAt(pos);
-    };
+    }
   
   //it returns the variable password
     return password;
-  
-  //
+
+    //
 }
 
 // Add event listener to generate button
